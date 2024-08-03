@@ -1,5 +1,5 @@
 <h1 align="center">Heyy👋, I'm AVIK DEY 👨‍🎓</h1>
-<h3 align="center">A passionate Coder from West Bengal , India</h3>
+<h3 align="center">A SKILLED JAVA DEVELOPER | SOFTWARE ENGINEER</h3>
 
 - 🌱 I’m currently learning B.TECH **INFORMATION TECHNOLOGY (BCET)**
 
