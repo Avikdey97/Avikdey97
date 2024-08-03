@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avik Dey</h1>
-<h3 align="center">A passionate Coder from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avikdey97&label=Profile%20views&color=0e75b6&style=flat" alt="avikdey97" /> </p>
+<h3 align="center">A passionate Coder from West Bengal , India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avikdey97" alt="avikdey97" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tyson__97_" target="blank"><img src="https://img.shields.io/twitter/follow/tyson__97_?logo=twitter&style=for-the-badge" alt="tyson__97_" /></a> </p>
 
 - 🌱 I’m currently learning B.TECH **INFORMATION TECHNOLOGY**
 
@@ -29,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avikdey97&show_icons=true&locale=en&layout=compact" alt="avikdey97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avikdey97&show_icons=true&locale=en" alt="avikdey97" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avikdey97&" alt="avikdey97" /></p>
