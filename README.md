@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning B.TECH **INFORMATION TECHNOLOGY (BCET)**
 
-- 👨‍💻 All of my projects are available at [https://portofolio97.netlify.app/](https://portofolio97.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portofolio97.netlify.app/](https://personal-portfolio-97.netlify.app/)
 
 - 💬 Ask me about **As a dedicated Software Engineer with a passion for innovating solutions and a love for problem-solving, I am committed to leveraging my expertise in coding to drive impactful results. With a strong background in developing and implementing cutting-edge software solutions, I excel in creating efficient and scalable applications that meet the needs of diverse clients and industries. My proficiency in coding languages such as JAVA, HTML & CSS allows me to tackle complex challenges with ease, while my experience in software development methodologies enables me to deliver high-quality products on time and within budget. I thrive in fast-paced environments where collaboration and creativity are valued, and I am always eager to learn and adapt to new technologies and trends in the ever-evolving tech landscape. With a proven track record of delivering innovative solutions that exceed expectations, I am confident in my ability to drive success for any organization. I am seeking opportunities to further enhance my skills and contribute to projects that make a real difference in the world. Let's connect and explore how we can work together to create impactful solutions that drive positive change.**
 
