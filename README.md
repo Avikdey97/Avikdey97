@@ -1,7 +1,7 @@
 <h1 align="center">Heyy👋, I'm AVIK DEY 👨‍🎓</h1>
 <h3 align="center">A SKILLED JAVA DEVELOPER | SOFTWARE ENGINEER</h3>
 
-- 🌱 I’m currently learning B.TECH **INFORMATION TECHNOLOGY (BCET)**
+- 🌱 I’m currently learning B.TECH **INFORMATION TECHNOLOGY (BCET , Durgapur)**
 
 - 👨‍💻 All of my projects are available at https://personal-portfolio-97.netlify.app/
 
